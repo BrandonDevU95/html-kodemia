@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(28, 30, 31);
+    color: rgb(209, 205, 199);
+}
+
+.lista,
+a {
+    color: rgb(125, 237, 165);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.decorate {
+    text-decoration: underline;
+}
